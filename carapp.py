@@ -1,6 +1,8 @@
 import streamlit as st
 import joblib
 import pandas as pd
+import category_encoders as ce
+
 
 
 # Load the model, scaler, and encoder
