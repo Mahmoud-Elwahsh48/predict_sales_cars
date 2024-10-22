@@ -4,7 +4,6 @@ import pandas as pd
 import category_encoders as ce
 
 
-
 # Load the model, scaler, and encoder
 rf_model = joblib.load(r'rf_model.pkl')
 scaler = joblib.load(r'scaler.pkl')
