@@ -3,3 +3,4 @@ joblib
 pandas
 scikit-learn
 altair==4.1.0
+category_encoders
